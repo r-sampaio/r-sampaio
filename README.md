@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigosampai0" alt="rodrigosampai0" /> </p>
 
-- 📝 I regulary write articles on [Security](Security)
+- 📝 I regulary write articles on [Security](https://medium.com/@r-sampaio)
 
 - 💬 Ask me about **Everything**
 
