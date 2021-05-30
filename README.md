@@ -2,7 +2,7 @@
 
 ```
 root@github:~# id
-uid=0(rodrigo) gid=-0(👨‍💻) groups=0(pentester)
+uid=0(rodrigo) gid=-0(👨‍💻) groups=-0(pentester)
 ```
 
 <a href="https://www.linkedin.com/in/r-sampaio/" alt="Linkedin">
